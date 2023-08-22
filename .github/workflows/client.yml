@@ -3,7 +3,7 @@ name: 'Upstream Sync And Deploy'
 on:
   schedule:
     - cron: "0 21 * * *"
-    # UTC 시간으로 오후 9시, 한국 시간으로 매일 6시에 실행
+    # UTC 시간으로 오후 9시, 한국 시간으로 매일 오전 6시에 실행
 
   workflow_dispatch:
 
