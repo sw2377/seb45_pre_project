@@ -1,5 +1,3 @@
-<br />
-
 <div  align="center">
   <img width="90%" src="https://content.presspage.com/uploads/2658/c1920_logo-stackoverflow-banner.jpg?64224" alt="stackoverflow">
 </div>
@@ -12,15 +10,19 @@
 - **`한줄 소개` :** Stackoverflow!  개발자간의 질의응답 커뮤니티 클론코딩 입니다.
 - **`팀원` :** 김병현(팀장), 백소원, 최수연, 김재희(부팀장), 함예준, 김건국
 - **`Wiki` :** <a href="https://github.com/codestates-seb/seb45_pre_019/wiki" target="_blank">🔖 Wiki</a>
-- **`배포 링크` :** <a href="http://stackoverflow-clone.s3-website.ap-northeast-2.amazonaws.com/questions" target="_blank">🌐 stackoverflow-clone</a>
+- **`배포 링크` :** <a href="http://stackoverflow-clone.s3-website.ap-northeast-2.amazonaws.com/questions" target="_blank">🌐 stackoverflow-clone</a><br />
+(서버가 종료되어 data가 표시되지 않습니다.)
 
 <br />
 
 ## 🧚 Team
+| 김병현<br>(FE, 팀장) | 🙋🏻‍♀️ 백소원<br>(FE) | 최수연<br>(FE) |
+| :---: | :---: | :---: |
+| <p align="left">- 질문하기 페이지<br/>질문 리스트 페이지<br/> header 컴포넌트 </p>|<p align="left">- 레이아웃 구성 및<br/>라우팅 처리<br/> - Sidebar 작업<br/> - 로그인/회원가입<br/> 유효성 검사 및<br/> 기능 구현<br/> - 질문리스트 페이지<br/>- 배포환경 구축(S3)<br/></p>|<p align="left">- footer 컴포넌트<br/> - 답변 페이지<br/> - wiki 문서화 작업<br/> - 사용자요구사항<br/>정의서 초안 작성<br/></p> |
 
-| 김병현<br>(FE, 팀장) | 백소원<br>(FE) | 최수연<br>(FE) |                                   김재희<br>(BE, 부팀장)                                    | 함예준<br>(BE) | 김건국<br>(BE) |
-| :---: | :---: | :---: |:-------------------------------------------------------------------------------------:| :---: | :---: |
-|<p align="left">- 질문하기 페이지<br/>질문 리스트 페이지<br/> header 컴포넌트 </p>|<p align="left">- 레이아웃 구성 및<br/>라우팅 처리<br/> - Sidebar 작업<br/> - 로그인/회원가입<br/> 유효성 검사 및<br/> 기능 구현<br/> - 질문리스트 페이지<br/>- 배포환경 구축(S3)<br/></p>|<p align="left">- footer 컴포넌트<br/> - 답변 페이지<br/> - wiki 문서화 작업<br/> - 사용자요구사항<br/>정의서 초안 작성<br/></p>| <p align="left">- 질문 CRUD 기능 <br/>- 답변 CRUD 기능<br/>- 검색 기능 <br/>- 추천/비추천 기능 <br/></p> |<p align="left">- 로그인/회원가입 및<br/>스프링 시큐리티 설정<br/>- 댓글 CRUD 기능<br/>- API 문서화<br/>- 배포환경 구축<br/>(EC2/RDS)</p>|<p align="left">- 사용자 요구사항<br/>정의서 작성</p> |
+| 김재희<br>(BE, 부팀장) | 함예준<br>(BE) | 김건국<br>(BE) |
+| :---: | :---: | :---: |
+| <p align="left">- 질문 CRUD 기능 <br/>- 답변 CRUD 기능<br/>- 검색 기능 <br/>- 추천/비추천 기능 <br/></p> |<p align="left">- 로그인/회원가입 및<br/>스프링 시큐리티 설정<br/>- 댓글 CRUD 기능<br/>- API 문서화<br/>- 배포환경 구축<br/>(EC2/RDS)</p>|<p align="left">- 사용자 요구사항<br/>정의서 작성</p> |
 
 <br />
 
